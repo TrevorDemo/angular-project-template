@@ -1,5 +1,7 @@
 # This is just a demo account.
 
+### Avoid using this repo. If you are looking for the **original** repository, go to [https://github.com/ekonstantinidis/angular-project-template](https://github.com/ekonstantinidis/angular-project-template).
+
 Angular Project Template [![Build Status](https://travis-ci.org/TrevorDemo/angular-project-template.svg?branch=master)](https://travis-ci.org/TrevorDemo/angular-project-template)
 =======================
 
